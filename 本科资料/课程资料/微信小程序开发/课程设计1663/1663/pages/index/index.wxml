@@ -1,0 +1,17 @@
+<!--index.wxml-->
+<image src="/images/SHU.jpg" mode="scaleToFill"></image>
+<view class="title">
+  学校简介
+</view>
+<view >
+上海大学（Shanghai University),简称“上大”,是上海市属、国家“211工程”重点建设的综合性大学，教育部与上海市人民政府共建高校，国防科技工业局与上海市人民政府共建高校，世界一流学科建设高校，入选“教育部来华留学示范基地”,“卓越工程师教育培养计划”,“卓越新闻传播人才教育培养计划”,“国家建设高水平大学公派研究生项目”,“111计划”,“上海市首批高水平地方高校建设试点”,“上海市首批深化创新创业教育改革示范高校”。
+</view>
+<navigator url="/pages/spxc/spxc">
+ <view class='waikuang'>
+   <view class='mycengter'>点击此处观看宣传视频</view>
+   <image src='/images/right-arrow.png' class='myright'></image>
+ </view>
+</navigator>
+
+<include src='footer.wxml'/>
+

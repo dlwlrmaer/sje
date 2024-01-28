@@ -1,0 +1,9 @@
+/* pages/3.8/3.8.wxss */
+.con{
+  font-size: 14px;
+  margin: 5px;
+}
+.inline{
+  display: inline-block;
+  width: 65px;
+}

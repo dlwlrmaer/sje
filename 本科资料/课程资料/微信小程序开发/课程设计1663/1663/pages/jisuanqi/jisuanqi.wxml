@@ -1,0 +1,18 @@
+<!--pages/jisunaqi/jisuanqi.wxml-->
+<view class='box'>
+  <view class='title'>绩点换算器</view>
+  <view>请输入你的考试成绩</view>
+  <input bindblur="scoreInput" placeholder="在此输入成绩"></input>
+  <view wx:if='{{score>100||score<0}}'>成绩输入有误</view>
+  <view wx:if='{{score>=90&&score<=100}}'>绩点：4.0 成绩等级：A</view>
+  <view wx:if='{{score>=85&&score<=89}}'>绩点：3.7 成绩等级：A-</view>
+  <view wx:if='{{score>=82&&score<=84}}'>绩点：3.3 成绩等级：B+</view>
+  <view wx:if='{{score>=78&&score<=81}}'>绩点：3.0 成绩等级：B</view>
+  <view wx:if='{{score>=75&&score<=77}}'>绩点：2.7 成绩等级：B-</view>
+  <view wx:if='{{score>=72&&score<=74}}'>绩点：2.3 成绩等级：C+</view>
+  <view wx:if='{{score>=68&&score<=71}}'>绩点：2.0 成绩等级：C-</view>
+  <view wx:if='{{score>=64&&score<=67}}'>绩点：1.7 成绩等级：D</view>
+  <view wx:if='{{score>=60&&score<=63}}'>绩点：1.0 成绩等级：A</view>
+  <view wx:if='{{score<60}}'>绩点：0 成绩等级：F</view>
+</view>
+

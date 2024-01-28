@@ -1,0 +1,5 @@
+/* pages/2.8/2.8.wxss */
+input{
+  margin: 20px 0;
+  border-bottom: 1px solid blue;
+}

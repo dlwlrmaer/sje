@@ -1,0 +1,5 @@
+/* pages/2.9/2.9.wxss */
+input{
+  border-bottom: 1px solid blue;
+  margin: 20px 0;
+}

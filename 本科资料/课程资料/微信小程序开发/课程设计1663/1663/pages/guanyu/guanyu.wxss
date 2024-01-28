@@ -1,0 +1,13 @@
+/* pages/guanyu/guanyu.wxss */
+.title{
+  flex-direction: row;
+  font-size:50px;
+  justify-content: center;
+  color: red;
+  display: flex;
+}
+.xinxi{
+  display: row;
+  font-size: 30px;
+  color: blue;
+}

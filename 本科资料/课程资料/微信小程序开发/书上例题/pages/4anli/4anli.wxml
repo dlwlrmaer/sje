@@ -1,0 +1,71 @@
+<!--pages/4anli/4anli.wxml-->
+<navigator url='/pages/4.1/4.1'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例4.1货币兑换</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/4.2/4.2'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例4.2三角形面积计算器</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/4.3/4.3'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例4.3设置字体样式和大小</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/4.4/4.4'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例4.4滑动条和颜色</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/4.5/4.5'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例4.5轮播图和开关选择器</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/4.6/4.6'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例4.6个人信息填写</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/4.7/4.7'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例4.7图片显示模式</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/4.8/4.8'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例4.8音频演示</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/4.9/4.9'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例4.9视频演示</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/4.10/4.10'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例4.10考试场次选择</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>

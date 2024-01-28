@@ -1,0 +1,8 @@
+/* pages/3.6/3.6.wxss */
+input{
+  margin-top: 20px;
+  margin-bottom:20px;
+  width: 50%;
+  height: 80rpx;
+  border: 1px solied silver;
+}

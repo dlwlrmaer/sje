@@ -1,0 +1,99 @@
+<!--pages/guanyu/guanyu.wxml-->
+<navigator url='/pages/5.1/5.1'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例5.1变脸游戏</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/5.2/5.2'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例5.2阶乘计算器</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/5.3/5.3'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例5.3基本绘图</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/5.4/5.4'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例5.4参数绘图</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/5.5/5.5'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例5.5改变图形</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/5.6/5.6'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例5.6绘制正弦曲线</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/5.7/5.7'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例5.7自由绘图</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/5.8/5.8'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例5.8动画</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/5.9/5.9'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例5.9照相和摄像</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/5.10/5.10'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例5.10位置和地图</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/5.11/5.11'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例5.11文件操作</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/5.12/5.12'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例5.12数据缓存</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/5.13/5.13'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例5.13网络状态</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/5.14/5.14'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例5.14传感器</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>

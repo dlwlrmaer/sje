@@ -1,0 +1,7 @@
+<!--pages/2.3/2.3.wxml-->
+<view class='box'>
+ <view class='title'>图片和声音</view>
+ <view style='text-align:center;'>
+   <image src='{{imgSrc}}' bindtap='tapCat'></image>
+ </view>
+</view>

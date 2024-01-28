@@ -1,0 +1,90 @@
+<!--index.wxml-->
+<navigator url='/pages/2.1/2.1'>
+ <view class='waikuang'>
+   <icon type='success' class='myleft'></icon>
+   <view class='mycengter'>案例2.1字体样式设置</view>
+   <image src='/images/right-arrow.png' class='myright'></image>
+ </view>
+</navigator>
+<navigator url='/pages/2.2/2.2'>
+ <view class='waikuang'>
+   <icon type='success' class='myleft'></icon>
+   <view class='mycengter'>案例2.2文本样式设置</view>
+   <image src='/images/right-arrow.png' class='myright'></image>
+ </view>
+</navigator><navigator url='/pages/2.3/2.3'>
+ <view class='waikuang'>
+   <icon type='success' class='myleft'></icon>
+   <view class='mycengter'>案例2.3图片和声音</view>
+   <image src='/images/right-arrow.png' class='myright'></image>
+ </view>
+</navigator><navigator url='/pages/2.4/2.4'>
+ <view class='waikuang'>
+   <icon type='success' class='myleft'></icon>
+   <view class='mycengter'>案例2.4盒模型</view>
+   <image src='/images/right-arrow.png' class='myright'></image>
+ </view>
+</navigator><navigator url='/pages/2.5/2.5'>
+ <view class='waikuang'>
+   <icon type='success' class='myleft'></icon>
+   <view class='mycengter'>案例2.5flex弹性盒模型布局</view>
+   <image src='/images/right-arrow.png' class='myright'></image>
+ </view>
+</navigator><navigator url='/pages/2.7/2.7'>
+ <view class='waikuang'>
+   <icon type='success' class='myleft'></icon>
+   <view class='mycengter'>案例2.7float页面布局</view>
+   <image src='/images/right-arrow.png' class='myright'></image>
+ </view>
+</navigator>
+<navigator url='/pages/2.8/2.8'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例2.8摄氏温度转华氏温度</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+    </view>
+</navigator>
+<navigator url='/pages/2.9/2.9'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例2.9条件语句与数学函数</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+    </view>
+</navigator>
+<navigator url='/pages/2.10/2.10'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例2.10成绩计算器</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+    </view>
+</navigator>
+<navigator url='/pages/2.11/2.11'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例2.11循环求和计算器</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/2.12/2.12'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例2.12随机数求和</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/2.13/2.13'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例2.13计时器</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/2.14/2.14'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例2.14自动变化的三色旗</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+
+

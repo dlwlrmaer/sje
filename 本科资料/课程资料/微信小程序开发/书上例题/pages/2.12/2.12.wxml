@@ -1,0 +1,8 @@
+<!--pages/2.12/2.12.wxml-->
+<view class='box'>
+  <view class='title'>案例2.12随机数求和</view>
+  <view>产生的随机数列为：</view>
+  <view wx:for="{{rand}}">{{item}}</view>
+  <view>随机数列的和为：</view>
+  <button type='primary' bindtap='newRand'>产生 新的随机数</button>
+</view>

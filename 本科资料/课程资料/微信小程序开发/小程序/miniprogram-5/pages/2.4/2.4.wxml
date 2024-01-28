@@ -1,0 +1,13 @@
+<!--pages/2.4/2.4.wxml-->
+<view class='box'>
+  <view class='title'>盒模型</view>
+  <view class='boxModel101'>
+     .boxModel101{width:80%;height:120px;background-color:yellow;border:3px dashed #F0000;padding:20px;margin:20px;}
+  </view>
+  <view class='boxModel102'>
+    .boxModel102{width:80%;height:120px;border:5px solid rgb(0,255,0);padding-top:20px;margin-bottom:20px;}
+  </view>
+  <view class='boxModel103'>
+    .boxModel103{width:80%;height:120px;border:5px dotted rgba(0,0,255,0.3);padding-left:20px;margin:0 20px;}
+  </view>
+</view>

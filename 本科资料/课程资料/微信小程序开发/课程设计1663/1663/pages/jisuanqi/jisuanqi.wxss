@@ -1,0 +1,13 @@
+/* pages/jisunaqi/jisuanqi.wxss */
+input{
+  margin-top: 20px;
+  margin-bottom:20px;
+  width: 50%;
+  height: 80rpx;
+  border: 1px solied silver;
+}
+.title{
+  justify-content: center;
+  display: flex;
+  color: red;
+}

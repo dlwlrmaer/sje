@@ -1,0 +1,32 @@
+<!--pages/bao/bao.wxml-->
+<view class="box">
+ <view class='title'>疫情每日报</view>
+ <form bindsubmit="formSubmit">
+  <view class="flex">
+   <text>姓名：</text>
+   <input type="text" auto-focus name="name" value="{{name}}"></input>
+  </view>
+  <view class="flex">
+    <text>学号：</text>
+    <input type="number" name="id" value="{{id}}"></input>
+  </view>
+  <view class="flex">
+    <text>体温：</text>
+    <input type="number" name="tem" value="{{tem}}"></input>
+  </view>
+  <picker mode='region' bindchange='pickRegion'>
+  <view>所在地：</view>
+  </picker>
+  <picker mode="date" start="1800-01-01" end="2999-12-12" bindchange="pickerDate">
+  <view>填报日期：{{birthDay}}</view>
+  </picker>
+  <picker bindchange="chooseSex" value="{{index}}" range="{{array1}}" name="sex">性别
+  </picker>
+  <picker bindchange="chooseTime" value="{{index}}" range="{{array2}}" name="time">是否经过湖北
+  </picker>
+  <view class="btnLayout">
+   <button type="primary" form-type="submit">确定</button>
+   <button type='primary'>取消</button>
+  </view>
+ </form>
+</view>

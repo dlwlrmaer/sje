@@ -1,0 +1,57 @@
+<!--pages/3anli/3anli.wxml-->
+<navigator url='/pages/3.2/3.2'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例3.2小程序的执行顺序</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/3.3/3.3'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例3.3数据绑定示例</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/3.4/3.4'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例3.4变量和函数的作用域及模块化</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/3.5/3.5'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例3.5条件渲染</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/3.6/3.6'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例3.6成绩等级计算器</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/3.7/3.7'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例3.7列表渲染</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/3.8/3.8'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例3.8九九乘法表</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>
+<navigator url='/pages/3.9/3.9'>
+   <view class='waikuang'>
+    <icon type='success' class='myleft'></icon>
+    <view class='mycenter'>案例3.9模板的定义及引用</view>
+      <image src='/images/right-arrow.png' class='myright'></image>
+   </view>
+</navigator>

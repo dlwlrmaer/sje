@@ -1,0 +1,18 @@
+/* pages/5.11/5.11.wxss */
+page{
+  text-align: center;
+}
+.btnLayout{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+button{
+  width: 40%;
+}
+.fileInfo{
+  margin: 10rpx 0;
+  background-color: #f8f8f8;
+  text-align: left;
+  border: 1p solid seagreen;
+}

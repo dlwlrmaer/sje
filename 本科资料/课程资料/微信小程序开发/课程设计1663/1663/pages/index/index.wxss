@@ -1,0 +1,35 @@
+/**index.wxss**/
+image{
+  width: 100%;
+  height: 150px;
+}
+.title{
+  flex:row;
+  color: blue;
+  justify-content: center;
+  display: flex;
+  font-size: 40px;
+}
+navigator{
+  margin: 5px;
+  font-size:20px;
+}
+.waikuang{
+  display: flex;
+  flex-direction: row;
+  margin: 5px 0px;
+  padding: 5px 0px;
+  color: red；
+}
+.myleft{
+  flex:1;
+}
+.myright{
+  width: 40rpx;
+  height: 40rpx;
+  margin-top: 5px;
+}
+.mycenter{
+  flex:1;
+  color: red;
+}

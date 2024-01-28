@@ -1,0 +1,11 @@
+//index.js
+Page({
+  data:{
+    imgSrc:'/images/kitty.png'
+  },
+  tapCat:function(){
+    let audio=wx.createInnerAudioContext()
+    audio.src='/audios/meow.mp3'
+    audio.play()
+  }
+})

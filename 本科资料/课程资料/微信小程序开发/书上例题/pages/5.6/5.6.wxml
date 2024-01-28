@@ -1,0 +1,7 @@
+<!--pages/5.6/5.6.wxml-->
+<view class='box'>
+ <view class='title'>绘制正弦曲线</view>
+ <view>
+  <canvas canvas-id="myCanvas"></canvas>
+ </view>
+</view>

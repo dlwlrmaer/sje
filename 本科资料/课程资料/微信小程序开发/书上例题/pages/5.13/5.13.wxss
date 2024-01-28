@@ -1,0 +1,4 @@
+/* pages/5.13/5.13.wxss */
+view{
+  margin: 10rpx 0;
+}

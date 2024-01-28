@@ -1,0 +1,100 @@
+{
+  "pages": [
+    "pages/shouye/shouye",
+    "pages/2anli/2anli",
+    "pages/3anli/3anli",
+    "pages/4anli/4anli",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/2.1/2.1",
+    "pages/2.2/2.2",
+    "pages/2.3/2.3",
+    "pages/2.4/2.4",
+    "pages/2.5/2.5",
+    "pages/2.7/2.7",
+    "pages/2.8/2.8",
+    "pages/2.9/2.9",
+    "pages/2.10/2.10",
+    "pages/2.11/2.11",
+    "pages/2.12/2.12",
+    "pages/2.13/2.13",
+    "pages/2.14/2.14",
+    "pages/3.2/3.2",
+    "pages/3.3/3.3",
+    "pages/3.5/3.5",
+    "pages/3.6/3.6",
+    "pages/3.7/3.7",
+    "pages/3.8/3.8",
+    "pages/3.9/3.9",
+    "pages/3.10/3.10",
+    "pages/3.4/3.4",
+    "pages/4.1/4.1",
+    "pages/4.2/4.2",
+    "pages/4.3/4.3",
+    "pages/4.4/4.4",
+    "pages/4.5/4.5",
+    "pages/4.6/4.6",
+    "pages/4.7/4.7",
+    "pages/4.8/4.8",
+    "pages/4.9/4.9",
+    "pages/4.10/4.10",
+    "pages/detail/detail",
+    "pages/5anli/5anli",
+    "pages/5.1/5.1",
+    "pages/5.2/5.2",
+    "pages/5.3/5.3",
+    "pages/5.4/5.4",
+    "pages/5.5/5.5",
+    "pages/5.6/5.6",
+    "pages/5.7/5.7",
+    "pages/5.8/5.8",
+    "pages/5.9/5.9",
+    "pages/5.10/5.10",
+    "pages/5.11/5.11",
+    "pages/5.12/5.12",
+    "pages/5.13/5.13",
+    "pages/5.14/5.14"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "史杰灵 19121663",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#000",
+    "selectedColor": "#00f",
+    "list": [
+      {
+        "pagePath": "pages/shouye/shouye",
+        "text": "首页",
+        "iconPath": "/images/1-off.png",
+        "selectedIconPath": "/images/1-on.png"
+      },
+      {
+        "pagePath": "pages/2anli/2anli",
+        "text": "2案例",
+        "iconPath": "/images/4-off.png",
+        "selectedIconPath": "/images/4-on.png"
+      },
+      {
+        "pagePath": "pages/3anli/3anli",
+        "text": "3案例",
+        "iconPath": "/images/4-off.png",
+        "selectedIconPath": "/images/4-on.png"
+      },
+      {
+        "pagePath": "pages/4anli/4anli",
+        "text": "4案例",
+        "iconPath": "/images/4-off.png",
+        "selectedIconPath": "/images/4-on.png"
+      },
+      {
+        "pagePath": "pages/5anli/5anli",
+        "text": "5案例",
+        "iconPath": "/images/5-off.png",
+        "selectedIconPath": "/images/5-on.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap34.json"
+}

@@ -1,0 +1,2 @@
+<!--pages/kebiao/kebiao.wxml-->
+<image src="/images/kechengbiao.png" class='in-image' mode='widthFix'></image>

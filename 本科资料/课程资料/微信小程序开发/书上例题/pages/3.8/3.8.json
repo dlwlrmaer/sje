@@ -1,0 +1,7 @@
+{
+  "navigationBarBackgroundColor":"#000000",
+  "navigationBarTitleText":"九九乘法表",
+  "navigationBarTextStyle":"white",
+  "backgroundTextStyle":"dark",
+  "pageOrientation":"landscape"
+}

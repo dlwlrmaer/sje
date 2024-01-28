@@ -1,0 +1,6 @@
+<!--pages/spxc/spxc.wxml-->
+<view class="title">上海大学2019年宣传视频</view>
+<view class="videoLayout">
+<video id="myVideo" src="http://172.31.0.20/2Q2WC206A3B1CD7DF1B1A8B1528C92B469414C53E7CB_unknown_199718FFD68E2E6C290A53205BCC81EFB34A50FC_2/www.shu.edu.cn/shipin/zsxcp20200310wysb.mp4 "> </video>
+</view>
+<image src="/images/szw.jpg"></image>

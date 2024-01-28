@@ -1,0 +1,8 @@
+/* pages/2.11/2.11.wxss */
+input{
+  border-bottom: 1px solid blue;
+  margin: 20px 0;
+}
+button{
+  margin-top: 20px;
+}

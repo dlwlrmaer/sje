@@ -1,0 +1,5 @@
+/* pages/4.4/4.4.wxss */
+.colorArea{
+  width:335px;
+  height: 100px;
+}

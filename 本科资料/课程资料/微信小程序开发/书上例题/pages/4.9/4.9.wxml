@@ -1,0 +1,15 @@
+<!--pages/4.9/4.9.wxml-->
+<view class='box'>
+  <view class='title'>视频展示</view>
+  <view class="videoLayout">
+<video id="myVideo"
+src="http://vodkgeyttp8.vod.126.net/cloudmusic/IDgwMCAwJDAgITI4MCAgMA==/mv/5286045/5243a293d82d1aadd41c98db8221e579.mp4?wsSecret=53c81a94202f0777c3c1f954780bbde5&wsTime=1584280238"
+danmu-list="{{danmuList}}" enable-danmu danmu-btn controls>
+ </video>
+</view>
+<view>
+  <view class="view">弹幕内容</view>
+    <input bindblur="inputBlur" type="text" placeholder="在此输入弹幕内容" />
+    <button type="primary" bindtap="sendDanmu">发送弹幕</button>
+  </view>
+</view>
